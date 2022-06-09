@@ -1,1 +1,3 @@
-print('this is the git')
+import main
+
+main.print_hi("whath")
